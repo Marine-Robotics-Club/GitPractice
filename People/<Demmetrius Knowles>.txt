@@ -1,0 +1,4 @@
+git checkout -b <Demmetrius Knowles>
+git add -A
+git commit -m "Practicing today"
+git push orgin <Demmetrius Knowles>
